@@ -1,7 +1,7 @@
 <!-- README.MD by Kenzo -->
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/19/1f/1c/191f1c151311fcb14a764211d69e97ea.gif" width="auto" alt="banner"/>
+  <img src="https://i.pinimg.com/originals/44/eb/17/44eb17afabc36a2df89e9bed6494587b.gif" width="auto" alt="banner"/>
   <h1><b>
     Hello!
   </b></h1>
